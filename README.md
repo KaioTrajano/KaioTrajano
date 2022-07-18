@@ -1,4 +1,4 @@
-![alt text](https://github.com/KaioTrajano/KaioTrajano/blob/profile.png)
+![alt text](https://github.com/KaioTrajano/Welcome/blob/profile.png)
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiotrajano/) [![blog](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/KaioTrajano)[ ![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5515997285135)
 
