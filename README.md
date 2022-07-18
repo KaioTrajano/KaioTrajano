@@ -4,7 +4,7 @@
 
 
 
-![KaioTrajano GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioTrajano&show_icons=true&theme=radical)
+![KaioTrajano GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioTrajano&show_icons=true&)
 
 ## Technologies I use in my daily life
 
