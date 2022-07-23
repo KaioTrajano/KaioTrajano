@@ -54,12 +54,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
-
-
-
-
-
-
-
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
